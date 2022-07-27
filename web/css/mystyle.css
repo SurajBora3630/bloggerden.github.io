@@ -1,0 +1,15 @@
+
+.primary-background{
+    background-color: grey!important;
+}
+.primary-font{
+    font-family: 'Oswald', sans-serif!important;
+}
+
+.font-family{
+    font-family: 'Merriweather', serif;
+}
+/*.banner-background{
+                clip-path: polygon(0 0, 100% 0, 100% 30%, 100% 48%, 89% 74%, 43% 87%, 1% 69%, 0% 30%);
+            }*/
+
